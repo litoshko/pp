@@ -1,0 +1,44 @@
+.menu {
+    height: 90vh;
+    width: 90vw;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.item {
+    width: 25vw;
+    font-size: 6vh;
+    text-align: center;
+    line-height: 16vh;
+    border-style: dotted;
+    border-width: 0.01em;
+    border-radius: 1vh;
+    margin: 1vh;
+}
+
+.container {
+    height: 90%;
+    width: 90%;
+}
+
+.hidden {
+    display: none;
+}
+
+.text {
+    font-size: 200%;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.box>* {
+    flex: 1 1 0;
+
+    border-style: dashed;
+    border-color: beige;
+    border-radius: 5%;
+}
