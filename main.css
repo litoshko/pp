@@ -22,12 +22,6 @@
     border-radius: 1vh;
 }
 
-.border {
-    border-style: dotted;
-    border-width: 0.01em;
-    border-radius: 1vh;
-}
-
 .text {
     text-align: center;
     font-size: 30vh;
