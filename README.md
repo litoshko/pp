@@ -1,2 +1,2 @@
 # pp
-Minimalist online planning poker cards
+Online planning poker cards
